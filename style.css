@@ -55,6 +55,8 @@ section {
 
 .card img {
   width: 100%;
+  height: 180px; /* ou outro valor fixo que achar bonito */
+  object-fit: cover;
   border-radius: 8px;
 }
 
