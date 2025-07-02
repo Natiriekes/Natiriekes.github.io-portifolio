@@ -64,7 +64,21 @@ section {
   text-decoration: none;
   color: #0066cc;
 }
+#projetos .row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
 
+#projetos .card {
+  width: 300px;
+  border: 1px solid #ccc;
+  padding: 16px;
+  border-radius: 10px;
+  text-align: center;
+  background-color: #fff;
+}
 footer {
   background-color: #222;
   color: white;
