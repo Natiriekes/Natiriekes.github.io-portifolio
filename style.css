@@ -64,7 +64,7 @@ section {
   text-decoration: none;
   color: #0066cc;
 }
-#projetos .row {
+#projetos .grid {
   display: flex;
   flex-wrap: wrap;
   gap: 20px;
